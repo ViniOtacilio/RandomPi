@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomPi", "RandomPi.csproj", "{FE4A19D9-9F2D-47E5-83ED-07C6E2FC1BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4A19D9-9F2D-47E5-83ED-07C6E2FC1BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4A19D9-9F2D-47E5-83ED-07C6E2FC1BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4A19D9-9F2D-47E5-83ED-07C6E2FC1BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4A19D9-9F2D-47E5-83ED-07C6E2FC1BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {157DDFE9-30A0-46F3-A807-7FFBBF03B542}
+	EndGlobalSection
+EndGlobal
